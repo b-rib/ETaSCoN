@@ -1,4 +1,4 @@
-# ETaSCoN - Energy-aware Task Scheduling for quality-of-service assurance in Constellations of Nanosatellites
+# ETaSCoN - **E**nergy-aware **Ta**sk **S**cheduling for quality-of-service assurance in **Co**nstellations of **N**anosatellites
  
 **ETaSCoN** is a [Julia](http://www.julialang.org/) package dedicated to energy-aware task scheduling for quality-of-service assurance in constellations of nanosatellites
  
